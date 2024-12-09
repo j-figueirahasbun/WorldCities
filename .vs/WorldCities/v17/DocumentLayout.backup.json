@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johnn\\Documents\\Code\\WorldCities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{841885FE-DB34-4D5A-855B-545C6178CAEB}|WorldCities.Server\\WorldCities.Server.csproj|c:\\users\\johnn\\documents\\code\\worldcities\\worldcities.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{841885FE-DB34-4D5A-855B-545C6178CAEB}|WorldCities.Server\\WorldCities.Server.csproj|solutionrelative:worldcities.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F814EC1-AD65-42D1-BCB6-35C355FA6F61}|worldcities.client\\worldcities.client.esproj|c:\\users\\johnn\\documents\\code\\worldcities\\worldcities.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2F814EC1-AD65-42D1-BCB6-35C355FA6F61}|worldcities.client\\worldcities.client.esproj|solutionrelative:worldcities.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F814EC1-AD65-42D1-BCB6-35C355FA6F61}|worldcities.client\\worldcities.client.esproj|c:\\users\\johnn\\documents\\code\\worldcities\\worldcities.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F814EC1-AD65-42D1-BCB6-35C355FA6F61}|worldcities.client\\worldcities.client.esproj|solutionrelative:worldcities.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F814EC1-AD65-42D1-BCB6-35C355FA6F61}|worldcities.client\\worldcities.client.esproj|c:\\users\\johnn\\documents\\code\\worldcities\\worldcities.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F814EC1-AD65-42D1-BCB6-35C355FA6F61}|worldcities.client\\worldcities.client.esproj|solutionrelative:worldcities.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F814EC1-AD65-42D1-BCB6-35C355FA6F61}|worldcities.client\\worldcities.client.esproj|c:\\users\\johnn\\documents\\code\\worldcities\\worldcities.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F814EC1-AD65-42D1-BCB6-35C355FA6F61}|worldcities.client\\worldcities.client.esproj|solutionrelative:worldcities.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F814EC1-AD65-42D1-BCB6-35C355FA6F61}|worldcities.client\\worldcities.client.esproj|c:\\users\\johnn\\documents\\code\\worldcities\\worldcities.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2F814EC1-AD65-42D1-BCB6-35C355FA6F61}|worldcities.client\\worldcities.client.esproj|solutionrelative:worldcities.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Johnn\\Documents\\Code\\WorldCities\\WorldCities.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WorldCities.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Johnn\\Documents\\Code\\WorldCities\\WorldCities.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WorldCities.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T14:08:24.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\Johnn\\Documents\\Code\\WorldCities\\worldcities.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "worldcities.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\Johnn\\Documents\\Code\\WorldCities\\worldcities.client\\src\\main.ts",
+              "RelativeToolTip": "worldcities.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-09T14:08:06.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\Johnn\\Documents\\Code\\WorldCities\\worldcities.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "worldcities.client\\tsconfig.json",
+              "ToolTip": "C:\\Users\\Johnn\\Documents\\Code\\WorldCities\\worldcities.client\\tsconfig.json",
+              "RelativeToolTip": "worldcities.client\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T14:07:46.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "aspnetcore-https.js",
+              "DocumentMoniker": "C:\\Users\\Johnn\\Documents\\Code\\WorldCities\\worldcities.client\\aspnetcore-https.js",
+              "RelativeDocumentMoniker": "worldcities.client\\aspnetcore-https.js",
+              "ToolTip": "C:\\Users\\Johnn\\Documents\\Code\\WorldCities\\worldcities.client\\aspnetcore-https.js",
+              "RelativeToolTip": "worldcities.client\\aspnetcore-https.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T14:07:22.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\Johnn\\Documents\\Code\\WorldCities\\worldcities.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "worldcities.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\Johnn\\Documents\\Code\\WorldCities\\worldcities.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "worldcities.client\\src\\proxy.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T14:06:45.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Johnn\\Documents\\Code\\WorldCities\\worldcities.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "worldcities.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Johnn\\Documents\\Code\\WorldCities\\worldcities.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "worldcities.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-09T13:56:27.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
